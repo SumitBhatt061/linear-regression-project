@@ -23,7 +23,6 @@ Mean Squared Error (MSE): ~23,370,078.8
 
 Root Mean Squared Error (RMSE): ~4835
 
-R² Score: (to be added from your code output)
 
 ➡️ Interpretation: On average, the model’s salary prediction is off by around ₹3.7k – ₹4.8k.
 
